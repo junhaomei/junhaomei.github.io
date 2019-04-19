@@ -4,3 +4,9 @@ a{
 	font-size:5px;
 	text-decoration:none;
 }
+
+.font1{
+	font-size: 15px;
+	color: black
+	font-family:verdana;
+}
